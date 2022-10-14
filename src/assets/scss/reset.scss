@@ -3,7 +3,21 @@
 html, body {
     margin: 0;
     padding: 0;
-    background: pink;    
-    font-family: 'Dancing Script', cursive;
+    background: royalblue;    
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 70px;
+}
+
+header {
+    p {
+        color: #fff;
+    }
+}
+
+footer {
+    p {
+        color: yellowgreen;
+    }
+
 }
 
